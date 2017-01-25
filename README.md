@@ -51,7 +51,7 @@ Below is our anticipated outline for the semester, subject to evolve:
 
 | Weeks  | Dates | Theme | 
 | ------ | ----- | ----- | 
-| Week 1 | 1/25 | Setup and Intro to environments. Github client, pull requests, and pages. |
+| Week 1 | 1/25 | Setup and Intro to tools and Resources. Github client, push / pull, and pages. |
 | Week 2 | 2/1 | HTML(5) and CSS(3): Data Languages for web publishing. Using developer tools: Console, Inspect, and Resources |
 | Week 3 | 2/8 | Interacting with the renderer: Selectors, Specificity, and the cascade |
 | Week 4 | 2/15 | Web Typography: @font-face |
@@ -69,7 +69,25 @@ Below is our anticipated outline for the semester, subject to evolve:
 
 ### Assessable Tasks
 
-Exercise 1: Bill of Rights (in conjunction with Lab)
+##### Readings
+- [Intro to Github](https://gun.io/blog/how-to-github-fork-branch-and-pull-request/)
+- [Git the simple guide](http://rogerdudler.github.io/git-guide/)
+- [Learn Git Branching ](http://learngitbranching.js.org/)
+
+##### Further Reading:
+- [ProGit Book](https://git-scm.com/book/en/v2)
+- [Git Reference](http://gitref.org/)
+
+##### Concepts:
+- Source Control
+- Git
+- Git Workflow
+- Branching
+- Commiting code
+- Push / Pull
+- Git static pages
+
+Exercise 1: Bill of Rights
 Start with the provided HTML for the Bill of Rights. Without editing the HTML or adding any additional files, create a browser-based design composition for the Bill of Rights using only CSS.
 
 ### Final Grade Calculation
@@ -99,14 +117,14 @@ Students will be expected bring the following to every class:
 - [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 - [Git Client](https://git-scm.com/download/gui/linux)
 - IDE / text editor:
-	- https://atom.io/
-	- https://www.sublimetext.com/
-	- http://code.visualstudio.com/
+	- [Atom](https://atom.io/)
+	- [Sublime](https://www.sublimetext.com/)
+	- [Visual Studio](http://code.visualstudio.com/)
 
 ### Browsers
-- Chrome (mobile, desktop)
-- Firefox
-- Safari (mobile, desktop)
+- Chrome [mobile](https://www.google.com/chrome/browser/mobile/index.html), [desktop](https://www.google.com/chrome/browser/features.html?brand=CHBD&gclid=Cj0KEQiAk5zEBRD9lfno2dek0tsBEiQAWVKyuOLkikka3vcGxYZ8qUMTRv8NJ_I3v6xHO3sw2nGq5EsaAi8o8P8HAQ)
+- Firefox [all](https://www.mozilla.org/en-US/firefox/desktop/)
+- Safari [mobile](https://support.apple.com/downloads/safari)
 
 ### Additional Resources
 
