@@ -18,7 +18,7 @@ Lab: Wed 9–11:40 am, 65 5th Ave, Room 201
 Office Hours: by email
 
 ### Instructor
-Axel Esquite, aesquite@gmail.com
+Axel Esquite, esquitea@newschool.edu
 
 ### Course Description
 This course serves as a complement to Core Studio Interaction. The lab is designed around a series of small workshops that teach beginning and intermediate interaction design through a hands-on engagement with HTML and CSS. The assignments are meant to work in tandem with the projects students are developing in the studio class.
