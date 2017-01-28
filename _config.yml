@@ -1,2 +1,34 @@
 title: Core Studio Lab PUCD 2126
-theme: jekyll-theme-cayman
+description: A hub for students attending PUCD 2126 Spring 2017
+about: A hub for students attending PUCD 2126 Spring 2017
+github: https://github.com/PUCD-2126/
+
+enableTags: true
+tagarray: []
+
+collections:
+  project:
+    output: true
+    permalink: /project/:path/
+
+social:
+    - icon: fa-github
+      link: https://github.com/PUCD-2126
+    - icon: fa-slack
+      link: https://coreinteractionsp17.slack.com
+
+urls:
+    - text: Syllabus
+      url: /syllabus/
+    - text: Github
+      url: https://github.com/PUCD-2126
+
+url: "https://pucd-2126.github.io"
+baseurl: ""
+paginate: 20
+per_page: 20
+paginate_path: "/page:num/"
+markdown: kramdown
+gems:
+  - jekyll-paginate
+  - jekyll-gist
