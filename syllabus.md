@@ -3,8 +3,6 @@ layout: page
 title: Syllabus
 permalink: /syllabus/
 ---
-
-# Syllabus
 **Parsons School of Design**
 
 Core Lab Interaction
@@ -59,23 +57,23 @@ By the successful completion of this course, students will be able to:
 ### Course Outline
 Below is our anticipated outline for the semester, subject to evolve:
 
-| Weeks  | Dates | Theme |
+| Week   | Dates | Theme |
 | ------ | ----- | ----- |
-| Week 1 | 1/25 | Setup and Intro to tools and Resources. Github client, push / pull, and pages. |
-| Week 2 | 2/1 | HTML(5) and CSS(3): Data Languages for web publishing. Using developer tools: Console, Inspect, and Resources |
-| Week 3 | 2/8 | Interacting with the renderer: Selectors, Specificity, and the cascade |
-| Week 4 | 2/15 | Web Typography: @font-face |
-| Week 5 | 2/22 | Web Layouts: On the Importance of Grid, Flexbox, BEM, SMACCS |
-| Week 6 | 2/29 | Responsive Web Design: media queries |
-| Week 7 | 3/8 |  Studio Midterm AMA |
-| Week 8 | 3/15 | Web Accessibility: Designing the web for all of us or audience. chromevox, open dyslexic |
-| Week 9 | 3/22 | Spring Break |
-| Week 10 | 3/29 | Color me bad: Gradients, Shapes, and drawing with CSS |
-| Week 11 | 4/5 | Movement: Animations & transitions |
-| Week 12 | 4/12 | Meet the Media APIs: Video, Audio, Picture, Canvas |
-| Week 13 | 4/19 | Studio Final AMA |
-| Week 14 | 4/26 | JS the only jQuery that matters these days: DOM Traversal & $.ajax |
-| Week 15 | 5/3 | JS Beyond Manual Mutations: Reactivity |
+| 1      | 1/25 | Setup and Intro to tools and Resources. Github client, push / pull, and pages. |
+| 2      | 2/1  | HTML(5) and CSS(3): Data Languages for web publishing. Using developer tools: Console, Inspect, and Resources |
+| 3      | 2/8  | Interacting with the renderer: Selectors, Specificity, and the cascade |
+| 4      | 2/15 | Web Typography: @font-face |
+| 5      | 2/22 | Web Layouts: On the Importance of Grid, Flexbox, BEM, SMACCS |
+| 6      | 2/29 | Responsive Web Design: media queries |
+| 7      | 3/8  |  Studio Midterm AMA |
+| 8      | 3/15 | Web Accessibility: Designing the web for all of us or audience. chromevox, open dyslexic |
+| 9      | 3/22 | Spring Break |
+| 10     | 3/29 | Color me bad: Gradients, Shapes, and drawing with CSS |
+| 11     | 4/5  | Movement: Animations & transitions |
+| 12     | 4/12 | Meet the Media APIs: Video, Audio, Picture, Canvas |
+| 13     | 4/19 | Studio Final AMA |
+| 14     | 4/26 | JS the only jQuery that matters these days: DOM Traversal & $.ajax |
+| 15     | 5/3  | JS Beyond Manual Mutations: Reactivity |
 
 ### Final Grade Calculation
 

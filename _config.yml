@@ -20,6 +20,8 @@ social:
 urls:
     - text: Syllabus
       url: /syllabus/
+    - text: Students
+      url: /students/
     - text: Github
       url: https://github.com/PUCD-2126
 
