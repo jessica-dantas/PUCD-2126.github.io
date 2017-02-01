@@ -1,0 +1,52 @@
+h1 {
+margin: 0px auto;
+max-width: 1000px;
+position: relative;
+color: #6EFCBB;
+font-weight: bold;
+font-size: 60pt;
+font-family: sans-serif;
+text-shadow: 9px 0px 0px #4AB18E;
+line-height: 120px;
+animation: hueRotate 5s linear infinite;
+}
+
+h2 {
+margin: 0px auto;
+max-width: 1000px;
+position: relative;
+color: #6EFCBB;
+font-weight: bold;
+font-size: 38pt;
+font-family: sans-serif;
+line-height: 120px;
+animation: hueRotate 5s linear infinite;
+}
+
+p {
+  margin: 0px auto;
+  max-width: 1000px;
+  position: relative;
+  color: #FF00FF;
+  font-weight: bold;
+  font-size: 5em, 28pt
+  font-size: 28pt;
+  font-family: sans-serif;
+  line-height: 30px;
+}
+
+body {
+    background: #00ff00 url("http://wallpapercave.com/wp/gnBCxsv.jpg");
+}
+
+
+
+
+
+
+@keyframes hueRotate {
+  0% { filter: hue-rotate(0deg);
+  ; }
+  50% { filter: hue-rotate(180deg); }
+  100% { filter: hue-rotate(359deg); }
+}
