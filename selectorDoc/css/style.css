@@ -1,0 +1,104 @@
+/* A single line comment */
+
+/*
+  A comment
+  which stretches
+  over several
+  lines
+*/
+
+/* basic selectors
+  - Element names
+  - Class
+  - id
+  - universal selectors
+  - attribute selectors
+*/
+* {
+  margin: 0px;
+  padding: 0px;
+}
+h1, h2, h3 {
+  font-family: monospace;
+}
+div {
+  border: 1px solid #333;
+}
+
+[type="text"] {
+  border: 2px green dashed;
+}
+
+.container {
+  color: aqua;
+}
+
+.tertiary-heading {
+  font-family: Arial;
+}
+
+#container {
+  background-color: #f00567;
+  text-align: center;
+}
+
+/*
+  combinators
+  - adjacent sibling selector ( + )
+  - general sibling ( ~ )
+  - child ( > )
+  - descendant selector (  )
+*/
+p + p {
+  font-style: italic;
+}
+
+#foo ~ span {
+  background-color: black;
+  color: white;
+}
+
+#container > p > span {
+}
+
+#container span {
+  font-family: fantasy;
+}
+
+/*
+  pseudo-elements
+  ::after
+  ::before
+  ::first-letter
+  ::first-line
+  ::selection
+  ::backdrop
+*/
+h1:after {
+  content: '©';
+  color: blue;
+  margin-left: 5px;
+}
+
+h1:first-letter {
+  text-transform: lowercase;
+}
+
+h1:before {
+  content: '©';
+  color: red;
+  margin-right: 5px;
+}
+
+/*
+  puseudo-classes
+*/
+
+p:hover {
+  color: white;
+  background-color: yellow;
+}
+
+p:active {
+  margin:10px;
+}
