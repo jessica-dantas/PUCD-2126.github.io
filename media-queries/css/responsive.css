@@ -1,0 +1,10 @@
+/* for-phone-only */
+@media (max-width: 599px) {  }
+/* for-tablet-portrait-up */
+@media (min-width: 600px) {  }
+/* for-tablet-landscape-up */
+@media (min-width: 900px) {  }
+/* for-desktop-up */
+@media (min-width: 1200px) {  }
+ /*for-big-desktop-up */
+@media (min-width: 1800px) {  }

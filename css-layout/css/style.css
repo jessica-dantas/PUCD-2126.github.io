@@ -1,0 +1,35 @@
+
+body {
+  margin: 1em .5em;
+}
+
+article {
+	display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  background: pink;
+  height: 300px;
+  flex-flow: row wrap;
+}
+
+section {
+  height: 10em;
+  background: #ccc;
+  margin: .5em;
+}
+
+.big {
+  width: 70%;
+}
+
+.small {
+  width: 10%;
+	/*-webkit-box-flex: 1;
+  -moz-box-flex: 1;
+  width: 10%;
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;*/
+}

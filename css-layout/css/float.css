@@ -1,0 +1,49 @@
+body {
+  margin: 1em .5em;
+}
+
+article {
+  margin-bottom: 5em;
+}
+
+.left {
+  float: left;
+}
+
+.right {
+  float: right;
+  margin-left: 5em;
+}
+
+article img:first-of-type {
+  margin-right: .5em;
+}
+
+header {
+  height: 10em;
+  background: #ccc;
+  margin: 0 .5em;
+}
+
+.sidebar {
+  float: left;
+  width: 400px;
+  height: 20em;
+  background: rgb(221, 126, 107);
+  margin: .5em .5em .5em 0;
+}
+
+.content {
+  float: left;
+  width: 600px;
+  height: 20em;
+  background: rgb(102, 102, 102);
+  margin: .5em 0;
+}
+
+footer {
+  height: 10em;
+  background: rgb(224,255,255);
+  margin: 0 .5em;
+  clear: left;
+}
