@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+    <head>
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <title>Web Accessibility</title>
+      <meta name="author" content="" />
+      <meta name="description" content="" />
+      <meta name="keywords" content="" />
+      <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+      <link rel="stylesheet" href="css/style.css">
+    </head>
+
+  <body>
+    <article class="container">
+      <h1>Here's a quote:</h1>
+      <blockquote>
+        The
+        <span id="plain">plain </span>
+        <span id="in">in </span>
+        <span id="rain">rain </span>
+        <span id="stays">stays mainly in the </span>
+        <span id="spain">Spain </span>
+      </blockquote>
+    </article>
+
+    <div>Click on this button:
+      <!-- <button  class="custombutton" onClick="alert('sent!')"> -->
+      <div class="custombutton" onClick="alert('sent!')">
+        Send
+      </div>
+    </div>
+    <div>
+      <h1>Labeling</h1>
+      <code>
+        <label for="firstname">First name:</label>
+        <input type="text" id="firstname">
+        <img src="http://placekitten.com.s3.amazonaws.com/homepage-samples/408/287.jpg" alt="a kitten under a blanket">
+      </code>
+      <form>
+        <input type="text" id="user">
+        <input type="password" id="password">
+        <img src="http://placekitten.com.s3.amazonaws.com/homepage-samples/408/287.jpg" />
+        <br>
+        <span class="label_left">User Name</span>
+        <span class="label_left">PIN</span>
+        <!--
+        these are labels for the corresponding inputs by 'id' attribute
+        <label class="label_left" for="user">User Name</label>
+        <label class="label_left" for="password">PIN</label>
+        -->
+        <br>
+        <button>Send</button>
+      </form>
+      <div tabindex="0">tabby 1</div>
+      <div tabindex="1">tabby 2</div>
+      <div tabindex="3">tabby 3</div>
+      <div tabindex="2">tabby 4</div>
+      <div tabindex="-1">tabby 5</div>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,106 @@
+body {
+  background: #f4f4f4;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+
+h1 { #212121; }
+
+.parent {
+  background: #00789D;
+}
+
+.parent:before {
+  content: '«';
+  background: #E7E746;
+  padding: 5px;
+}
+.parent:after {
+  content: '»';
+  background: #AAAAE5;
+  color: #212121;
+  padding: 5px;
+}
+
+.child {
+  background: #C8808B;
+  color: #212121;
+  padding: 5px;
+}
+
+#shapes-demo, #gradients-demo { overflow: hidden; }
+#shapes-demo > div, #gradients-demo > div {
+  float: left;
+  margin: 0 15px;
+}
+
+/* Shapes */
+.square {
+	width: 100px;
+	height: 100px;
+	background: #8484A8;
+}
+
+.circle {
+	width: 100px;
+	height: 100px;
+	background: #8484A8;
+	-moz-border-radius: 50%;
+	-webkit-border-radius: 50%;
+	border-radius: 50%;
+}
+
+.triangle-up {
+	width: 0;
+	height: 0;
+	border-left: 50px solid transparent;
+	border-right: 50px solid transparent;
+	border-bottom: 100px solid #8484A8;
+
+  /*
+  width: 100px;
+	height: 100px;
+  -webkit-transform: rotate(45deg);
+	background: -webkit-gradient(linear, 0 0, 100% 100%, color-stop(.5, red), color-stop(.5, transparent));
+  */
+}
+
+.trapezoid {
+	border-bottom: 100px solid #D6556D;
+	border-left: 50px solid transparent;
+	border-right: 50px solid transparent;
+	height: 0;
+	width: 100px;
+}
+
+.parallelogram {
+	width: 150px;
+	height: 100px;
+	-webkit-transform: skew(20deg);
+	   -moz-transform: skew(20deg);
+	     -o-transform: skew(20deg);
+	background: #D6556D;
+}
+
+/* box-shadows */
+.boxy-demo{
+   box-shadow: 170px 0 10px #E7E746,
+               330px 0 0 -20px #00789D,
+               330px 5px 5px -20px #333;
+}
+
+/* Gradients */
+.gradient {
+    background-image: linear-gradient(to right, gray, white, gray, black);
+}
+
+.complex-gradient {
+    background-image: linear-gradient(to right, gray, white, gray, black);
+}
+
+.complex-gradient:after {
+    content: '0';
+    color: transparent;
+    font-size: 70px;
+    background-image: radial-gradient(circle, #E7E746 30%, transparent 50%),
+                      linear-gradient(to right, blue, red);
+}

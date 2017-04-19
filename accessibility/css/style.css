@@ -1,0 +1,31 @@
+body {
+  font-family: "Open Sans";
+  font-size: 100%;
+}
+
+blockquote {
+  margin: 0;
+  font-size: 2em;
+}
+/*
+blockquote span {
+  position: relative;
+}
+*/
+h1 {
+  font-size: 2em;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/*
+#plain { left: 490px; }
+#in { left: -10px; }
+#rain { left: -116px; }
+#stays { right: -20px; }
+#spain { left: -359px; }
+*/
