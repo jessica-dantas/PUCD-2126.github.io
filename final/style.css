@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.nav {
+  display: flex;
+  background-color: #3c3c3c;
+  color: #fff;
+  list-style-type: none;
+}
+
+.nav a {
+  text-decoration: none;
+  color: #fff;
+}
+
+.full-bleed {
+  background: url('assets/3648.jpeg');
+  color: white;
+  text-align: center;
+  height: 100vh;
+  background-position: bottom center;
+  background-size: 100%;
+}
+
+/* for-phone-only */
+@media (max-width: 599px) {  }
+/* for-tablet-portrait-up */
+@media (min-width: 600px) {  }
+/* for-tablet-landscape-up */
+@media (min-width: 900px) {  }
