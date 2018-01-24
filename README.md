@@ -2,9 +2,9 @@
 
 Parsons School of Design
 Core Lab Interaction
-PUCD 2126 | CRN 4814
-Section D, Spring 2017
-Lab: Wed 9–11:40 am, 65 5th Ave, Room 201
+PUCD 2126 | CRN 3187
+Section F, Spring 2018
+Lab: Wed 9–11:40 am, 63 5th Ave, Room 301
 Office Hours: by email
 
 ### Instructor
