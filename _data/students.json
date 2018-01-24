@@ -1,46 +1,6 @@
 [
   {
-    name: "Anisha Subberwal",
-    handle: "AnishaSubberwal"
+    name: "",
+    handle: ""
   },
-  {
-    name: "Adam Wei-Loong Johansen",
-    handle: "awjohansen"
-  },
-  {
-    name: "Cristina Cepeda Thielmann",
-    handle: "cristinacepeda"
-  },
-  {
-    name: "Ji Won Kim",
-    handle: "g1kim"
-  },
-  {
-    name: "Gabby Mcintosh",
-    handle: "gabbymcin"
-  },
-  {
-    name: "Haitong Zheng",
-    handle: "Haitong32"
-  },
-  {
-    name: "Gufeng Huang",
-    handle: "huang200"
-  },
-  {
-    name: "Olimpia Pignatti Morano Campori",
-    handle: "olimpiapignatti"
-  },
-  {
-    name: "Martin Park",
-    handle: "parkn033"
-  },
-  {
-    name: "Annika Phillips",
-    handle: "phila810"
-  },
-  {
-    name: "Amy Schultz",
-    handle: "schua481"
-  }
 ]
